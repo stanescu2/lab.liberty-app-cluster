@@ -1,0 +1,7 @@
+Prerequisite Knowledge
+======================
+
+* Basic Linux knowledge
+* This lab uses gedit as the editor of choice in the command examples. You are free to use any editor you wish (the VM image has vi and emacs available).
+
+When large amounts of text are displayed as part of an operation output or screen shot, the important portions are highlighted or otherwise indicated using red.
